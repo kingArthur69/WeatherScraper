@@ -1,0 +1,22 @@
+.welcome-body{
+    padding-top: 122px;
+    padding-bottom: 56px;
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.shadow-top {
+    box-shadow: 0 -.5rem 1rem rgba(0,0,0,.15);
+}
